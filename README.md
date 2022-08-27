@@ -2,4 +2,4 @@
 This is a basic vanilla javascript project for studying about theme switcher
 
 🔗 link
-lucasellery.github.io/light-dark-mode/
+<br/><a href="lucasellery.github.io/light-dark-mode/">Dark-light-mode</a>
